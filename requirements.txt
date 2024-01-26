@@ -3,7 +3,7 @@ networkx
 pandas
 numpy
 streamlit
-os
+# os
 json
 typing
 time
