@@ -1,2 +1,12 @@
 plotly
-whatever
+networkx
+pandas
+numpy
+streamlit
+glob
+os
+json
+typing
+time
+random
+matplotlib
